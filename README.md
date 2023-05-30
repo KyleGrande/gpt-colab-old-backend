@@ -1,3 +1,3 @@
-# GPT-Colab-Old-Backend
+# GPT-Colab-Old-Backend & Frontend
 GPTCoLab originally used flask as it's backend with a simple frontend, however it was migrated to a react frontend and flask backend, then finally went serverless using AWS services.
 ## View the site [here](https://lovelace.gptcolab.com/)
